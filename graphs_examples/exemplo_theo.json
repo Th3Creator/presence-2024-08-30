@@ -1,0 +1,143 @@
+{
+  "nodes": [
+      {
+        "x": 30,
+        "y": 120,
+        "filename": "0"
+      },
+      {
+        "x": 30,
+        "y": 220,
+        "filename": "5"
+      },
+      {
+        "x": 75,
+        "y": 120,
+        "filename": "1"
+      },
+      {
+        "x": 75,
+        "y": 220,
+        "filename": "6"
+      },
+      {
+        "x": 120,
+        "y": 120,
+        "filename": "2"
+      },
+      {
+        "x": 120,
+        "y": 220,
+        "filename": "7"
+      },
+
+      {
+        "x": 165,
+        "y": 120,
+        "filename": "3"
+      },
+      {
+        "x": 165,
+        "y": 220,
+        "filename": "8"
+      },
+
+      {
+        "x": 210,
+        "y": 120,
+        "filename": "4"
+      },
+      {
+        "x": 210,
+        "y": 220,
+        "filename": "9"
+      }
+  ], 
+  "edges": [
+     {
+      "start_node": "0",
+      "end_node": "1",
+      "distance": 6
+     },
+     {
+      "start_node": "0",
+      "end_node": "5",
+      "distance": 8
+     },	      
+     {
+      "start_node": "1",
+      "end_node": "2",
+      "distance": 6
+     },
+     {
+      "start_node": "1",
+      "end_node": "6",
+      "distance": 7
+     },	   
+     {
+      "start_node": "1",
+      "end_node": "5",
+      "distance": 3
+     },	     
+     {
+      "start_node": "2",
+      "end_node": "3",
+      "distance": 8
+     },	
+     {
+      "start_node": "2",
+      "end_node": "7",
+      "distance": 3
+     },		   
+     {
+      "start_node": "2",
+      "end_node": "6",
+      "distance": 3
+     },	 
+     {
+      "start_node": "3",
+      "end_node": "4",
+      "distance": 5
+     },	
+     {
+      "start_node": "3",
+      "end_node": "8",
+      "distance": 4
+     },	
+     {
+      "start_node": "3",
+      "end_node": "7",
+      "distance": 2
+     },	  
+     {
+      "start_node": "4",
+      "end_node": "9",
+      "distance": 2
+     },	
+     {
+      "start_node": "4",
+      "end_node": "8",
+      "distance": 5
+     },	  
+     {
+      "start_node": "9",
+      "end_node": "8",
+      "distance": 3
+     },	  
+     {
+      "start_node": "8",
+      "end_node": "7",
+      "distance": 6
+     },	  
+     {
+      "start_node": "7",
+      "end_node": "6",
+      "distance": 4
+     },	 
+     {
+      "start_node": "6",
+      "end_node": "5",
+      "distance": 9
+     }
+  ]
+}
