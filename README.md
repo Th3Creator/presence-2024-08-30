@@ -4,4 +4,4 @@ referência: https://github.com/projeto-de-algoritmos/Grafos2_Kruskal-And-Prim-V
 
 ![Instruções](https://github.com/user-attachments/assets/c8f85179-c88d-48ac-b109-478796ef02ab)
 
-observações: Pessoal, se estiver com dificuldade em visualziar o que está no terminal, é basicament o comando sugerido, mas para facilitar, baixem a imagem e dê um zoom que fica perfeito, resolução fica da mesma forma.
+observações: Se estiver com dificuldade em visualizar o que está no terminal, é basicamente o comando sugerido, mas para facilitar, baixe a imagem e dê um zoom que fica perfeito, resolução fica da mesma forma.
