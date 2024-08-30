@@ -3,6 +3,7 @@
 referência: https://github.com/projeto-de-algoritmos/Grafos2_Kruskal-And-Prim-Visualizer
 
 Comandos: 
+
 1°: Instale todas as dependêncais: pip install -r requirements.txt
 
 2°: Testando o Kruskal: python main.py graphs_examples/exemplo_theo.json kruskal
